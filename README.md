@@ -1,2 +1,2 @@
-# C6-Lab3
+# C5-Lab3
 WEB210 Student Clubs and Events Website
